@@ -2,58 +2,60 @@ import { Project } from "../types";
 
 // TODO: Move this to API
 export const PROJECTS: Project[] = [
-  {
-    title: 'Angular Gulp Seed',
-    date: 'Aug 2016',
-    subtext: 'A basic starter project to initialize project using AngularJS and Gulp. It follows MVC architecture and uses standard app structure.',
-    url: 'https://github.com/mohitvirli/angular-gulp-seed',
-  },
-  {
-    title: 'State.js',
-    date: 'Jul 2020',
-    subtext: 'A lightweight library for turning JS objects into observables, providing a convenient API for state management and manipulation.',
-    url: 'https://github.com/mohitvirli/state.js',
-  },
-  {
-    title: 'change-host',
-    date: 'Jul 2020',
-    subtext: 'A CLI tool to manage /etc/hosts entries for local development. It enables quick and easy mapping of IPs to URLs with a single command.',
-    url: 'https://github.com/mohitvirli/change-host',
-  },
-  {
-    title: 'Vaccine Slots Discord Bot',
-    date: 'May 2021',
-    subtext: 'A Discord Bot that sends alerts for COVID-19 vaccine availability based on PIN/district using public APIs.',
-    url: 'https://github.com/mohitvirli/vaccine-slots-discord-bot',
-  },
-  {
-    title: 'Chat bot',
-    date: 'Aug 2024',
-    subtext: 'A streaming chatbot that allows users to switch between different LLMs with custom API keys.',
-    url: 'https://github.com/mohitvirli/chat-bot-vercel',
-  },
-  {
-    title: 'Word Game',
-    date: 'Oct 2024',
-    subtext: 'This word game app offers single and multiplayer modes where players take turns forming words, each starting with the last letter of the previous word.',
-    url: 'https://github.com/mohitvirli/word-game',
-  },
-  {
-    title: 'DJ Gig',
-    date: 'Mar 2025',
-    subtext: 'Hosted a Sundowner event which was recorded and is out on YouTube. Furthermore, I performed a UKG/140 DJ set at a local club.',
-    url: 'https://www.youtube.com/watch?v=oauQSEySkoQ',
-  },
-  {
-    title: 'Portfolio',
-    date: 'Apr 2025',
-    subtext: '[Enter a meta joke].',
-    url: 'https://github.com/mohitvirli/mohitvirli.github.io',
-  },
-  {
-    title: 'Focus Clock',
-    date: 'Jun 2025',
-    subtext: 'Developed a minimalist clock featuring a time-remaining indicator.',
-    url: 'https://github.com/mohitvirli/focus-clock',
-  },
+	{
+		title: "CodeCore VS Code Extension",
+		date: "Mar 2026",
+		subtext:
+			"A gamified VS Code extension that rewards developers with XP for coding activities like saving files, fixing errors, and committing code.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Chartered Bus Booking Platform",
+		date: "Feb 2026",
+		subtext:
+			"A fullstack booking platform where users can reserve charter buses with dynamic routes, booking forms, and SEO-optimized pages.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Airline Booking System",
+		date: "Jan 2026",
+		subtext:
+			"A scalable airline ticket booking interface with dynamic routes, state management, and modern UI built using React and Next.js.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Dynamic SEO Page Generator",
+		date: "Dec 2025",
+		subtext:
+			"A system to generate thousands of dynamic pages (country/city routes) for booking platforms with optimized SEO and schema markup.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Developer Portfolio",
+		date: "Nov 2025",
+		subtext:
+			"A modern developer portfolio with 3D animations, project showcases, and interactive UI built with React and Three.js.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "AI Chatbot Interface",
+		date: "Aug 2025",
+		subtext:
+			"A streaming chatbot interface that allows users to interact with different AI models using custom API keys.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Admin Dashboard System",
+		date: "Jun 2025",
+		subtext:
+			"A modern dashboard for managing users, analytics, and platform settings using React, TailwindCSS, and modular components.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
+	{
+		title: "Word Game App",
+		date: "Apr 2025",
+		subtext:
+			"A multiplayer word game where players build new words using the last letter of the previous word.",
+		url: "https://github.com/rishi-srivastav-zx",
+	},
 ];
