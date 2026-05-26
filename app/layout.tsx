@@ -38,7 +38,7 @@ export const metadata = {
 	openGraph: {
 		title: "Rishi Srivastav - Frontend Engineer",
 		description: "Frontend engineer by profession, creative at heart.",
-		url: "https://rishisrivastav.github.io ",
+		url: "https://rishisrivastav.github.io",
 		siteName: "Rishi Srivastav's Portfolio",
 		locale: "en_US",
 		type: "website",
